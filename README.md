@@ -29,3 +29,6 @@ Corresponding Papers:
 
 ### Notes:
 **This software is currently for learning purposes only! Any commercial use is strictly prohibited. If you wish to use the software to generate data for paper publication, please cite our work. Appreciated!**
+
+## II. HOW TO INSTALL
+
