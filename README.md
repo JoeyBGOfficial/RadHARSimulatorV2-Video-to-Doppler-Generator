@@ -62,7 +62,7 @@ Fig. 3. Structure of the proposed DopSPN model.
 ### B. Codes Explanation (Folder: SPN_Model_Matlab, SPN_Model_Python)
 
 #### 1. SPN_Model.m
-This MATLAB script implements a transfer learning approach using a custom SPN architecture for radar image-set-based human activity recognition. It loads pre-trained network parameters, imports training and validation image datasets with random 80/20 split, constructs a deep network with specialized SPGBlocks featuring parallel grouped convolutions and depth concatenation, trains the model for 12-class classification using the Adam optimizer, and generates detailed visualizations including training and validation loss curves, accuracy curves, and a confusion matrix on the validation set.
+This MATLAB script implements a transfer learning approach using DopSPN architecture. It loads pre-trained network parameters, imports training and validation image datasets with random 80/20 split, constructs a deep network with specialized SPGBlocks featuring parallel grouped convolutions and depth concatenation, trains the model for 12-class classification using the Adam optimizer, and generates detailed visualizations including training and validation loss curves, accuracy curves, and a confusion matrix on the validation set.
 
 **Input:** Pre-trained parameters from SPN_Params.mat and dataset directory containing subfolders for each activity class with radar-derived images.
 
