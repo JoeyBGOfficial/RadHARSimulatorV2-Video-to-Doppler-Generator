@@ -47,9 +47,9 @@ Fig. 2. Software interface of the proposed simulator.<br><br>
 
 After clicking the app botton in your MATLAB APPs toolbar, you will see the interface of the simulator. Hovering the mouse over the corresponding parameter box displays an explanation of the parameter to be entered. After choosing your video file and filling in the parameters, switch the “off” button to “on” to start the simulation. Upon simulation completion, the parameters, echo matrix, and various images will automatically stored to your desktop and pop up.
 
-**Attention! While most videos recorded on mobile phones are in MP4 format, they are encoded using HEVC. MATLAB does not support reading this proprietary encoding format. Therefore, the software provides an online link for decoding HEVC MP4 files. Press the HEVC Decoding button.**
+**Attention! While most videos recorded on mobile phones are in MP4 format, they are encoded using HEVC. MATLAB does not support reading this proprietary encoding format. Therefore, the software provides an online link for decoding HEVC MP4 files. Press the "HEVC Decoding" button.**
 
-You can also access the aoo manual by tapping the “Instruction” button.
+You can also access the aoo manual by tapping the "Instruction" button.
 
 
 
