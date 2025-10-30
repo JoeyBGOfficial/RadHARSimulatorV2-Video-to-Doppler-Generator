@@ -99,3 +99,9 @@ Predefined parameter file for the DopSPN model in MATLAB version.
 **(4) Right Issues: ⭐The project is limited to learning purposes only. Only part of the computer vision module utilizes MATLAB's pre-trained third-party models. Any use or interpretation without citation or authorized by me is not allowed!⭐**
 
 Last but not least, hope that my work will bring positive contributions to the open source community in the filed of radar signal processing.
+
+## VI. VERSION MANAGEMENT
+
+| Version | Release Date | Supporting Package | Description |
+| ----------- | ----------- | ----------- | ----------- |
+| V2.0 | 2025.11.20 | MATLAB, Computer Vision Toolbox Model for RTMDet Object Detection, Computer Vision Toolbox Model for Object Keypoint Detection | The second version of the simulator. |
