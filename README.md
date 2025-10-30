@@ -28,7 +28,12 @@ Corresponding Papers:
 [1] 
 
 ### Notes:
-**This software is currently for learning purposes only! Any commercial use is strictly prohibited. If you wish to use the software to generate data for paper publication, please cite our work. Appreciated!**
+**This app is currently for learning purposes only! Any commercial use is strictly prohibited. If you wish to use the app to generate data for paper publication, please cite our work. Appreciated!**
 
 ## II. HOW TO INSTALL
 
+This app is packaged as a MATLAB toolbox. Follow the steps for installing.
+
+1. Download the installer from GoogleDrive: https://drive.google.com/file/d/1F9DRkECVmazQp6NrIiTMsvBu8ICdDSUD/view?usp=sharing;
+2. Open MATLAB and double click the downloaded "RadHARSimulator_V2_Toolbox.mltbx": <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/90640f77-f664-4d8b-8f78-44993c44e2d5" />;
+3. 
