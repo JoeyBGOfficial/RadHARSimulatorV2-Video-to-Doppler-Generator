@@ -90,5 +90,12 @@ Predefined parameter file for the DopSPN model in MATLAB version.
 
 ## V. SOME THINGS TO NOTE
 
+**(1) Reproducibility Issues:** The network model receives image inputs in the form of three-channel RGB images.
 
+**(2) Environment Issues:** The project consists of both MATLAB and Python code. The recommended MATLAB version is R2025a and above, and the recommended Python version is 3.10 and above. The program can be executed by both CPU and GPU environment.
 
+**(3) Algorithm Design Issues:** This simulator is developed using the MATLAB toolbox, so the full version of MATLAB must be installed first. Additionally, the two add-on packages mentioned during the installation process are also required. Otherwise, the program will encounter errors during execution.
+
+**(4) Right Issues: ⭐The project is limited to learning purposes only. Only part of the computer vision module utilizes MATLAB's pre-trained third-party models. Any use or interpretation without citation or authorized by me is not allowed!⭐**
+
+Last but not least, hope that my work will bring positive contributions to the open source community in the filed of radar signal processing.
