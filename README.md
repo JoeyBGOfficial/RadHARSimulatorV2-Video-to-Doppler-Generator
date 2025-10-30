@@ -9,7 +9,7 @@ Fig. 2. Splash screen of RadHARSimulator V1.
 
 The paper of this simulator can be found here: .
 
-This is the upgraded version of my previous work RadHARSimulator V1: https://github.com/JoeyBGOfficial/RadHARSimulatorV1-Model-Based-FMCW-Radar-Human-Activity-Recognition-Simulator/tree/main?tab=readme-ov-file. This work enables the direct simulation of free-space/through-the-wall radar echoes and images from human activity captured in videos recorded by smartphones or cameras, employing a method that is not absolutely precise but somewhat effective. Additionally, similar to previous works, we simultaneously release an effective recognition neural network design with both MATLAB and Python implementation.
+This is the upgraded version of my previous work RadHARSimulator V1: https://github.com/JoeyBGOfficial/RadHARSimulatorV1-Model-Based-FMCW-Radar-Human-Activity-Recognition-Simulator. This work enables the direct simulation of free-space/through-the-wall radar echoes and images from human activity captured in videos recorded by smartphones or cameras, employing a method that is not absolutely precise but somewhat effective. Additionally, similar to previous works, we simultaneously release an effective recognition neural network design with both MATLAB and Python implementation.
 
 I would like to thank my mentors for the platform they have provided me. 
 
