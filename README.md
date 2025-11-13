@@ -25,7 +25,7 @@ Abstract: Radar-based human activity recognition (HAR) lies in providing decisio
 
 Corresponding Papers:
 
-[1] W. Gao, “RadHARSimulator V2: Video to Doppler Generator,” \emph{arXiv (Cornell University)}, Nov. 2025, doi: 10.48550/arXiv.2511.09022.
+[1] W. Gao, “RadHARSimulator V2: Video to Doppler Generator,” *arXiv (Cornell University)*, Nov. 2025, doi: 10.48550/arXiv.2511.09022.
 
 ### Notes:
 **This app is currently for learning purposes only! Any commercial use is strictly prohibited. If you wish to use the app to generate data for paper publication, please cite our work. Appreciated!**
