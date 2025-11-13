@@ -104,4 +104,4 @@ Last but not least, hope that my work will bring positive contributions to the o
 
 | Version | Release Date | Supporting Package | Description |
 | ----------- | ----------- | ----------- | ----------- |
-| V2.0 | 2025.11.20 | MATLAB, Computer Vision Toolbox Model for RTMDet Object Detection, Computer Vision Toolbox Model for Object Keypoint Detection | The second version of the simulator. |
+| V2.0 | 2025.11.13 | MATLAB, Computer Vision Toolbox Model for RTMDet Object Detection, Computer Vision Toolbox Model for Object Keypoint Detection | The second version of the simulator. |
