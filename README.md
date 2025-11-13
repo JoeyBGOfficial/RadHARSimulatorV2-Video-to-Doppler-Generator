@@ -21,11 +21,11 @@ The V2 version of radar-based human activity recognition simulator (RadHARSimula
 
 My Email: JoeyBG@126.com;
 
-Abstract: .
+Abstract: Radar-based human activity recognition (HAR) lies in providing decision-making insights for urban warfare and counter-terrorism through contactless perception, while safeguarding privacy and security in areas such as monitoring for elderly individuals living alone and smart home applications. However, this field still lacks a comprehensive simulation method for radar-based HAR. Existing software is developed based on models or motion-captured data, resulting in limited flexibility. To address this issue, a simulator that directly generates Doppler spectra from recorded video footage (RadHARSimulator V2) is presented in this paper. Both computer vision and radar modules are included in the simulator. In computer vision module, the real-time model for object detection with global nearest neighbor is first used to detect and track human targets in the video. Then, the high-resolution network is used to estimate two-dimensional poses of the detected human targets. Next, the three-dimensional poses of the detected human targets are obtained by nearest matching method. Finally, smooth temporal three-dimensional pose estimation is achieved through Kalman filtering. In radar module, pose interpolation and smoothing are first achieved through the Savitzky-Golay method. Second, the delay model and the mirror method are used to simulate echoes in both free-space and through-the-wall scenarios. Then, range-time map is generated using pulse compression, moving target indication, and DnCNN. Next, Doppler-time map (DTM) is generated using short-time Fourier transform and DnCNN again. Finally, the ridge features on the DTM are extracted using the maximum local energy method. In addition, a hybrid parallel-serial neural network architecture is proposed for radar-based HAR. Numerical experiments are conducted and analyzed to demonstrate the effectiveness of the designed simulator and the proposed network model.
 
 Corresponding Papers:
 
-[1] 
+[1] W. Gao, “RadHARSimulator V2: Video to Doppler Generator,” \emph{arXiv (Cornell University)}, Nov. 2025, doi: 10.48550/arXiv.2511.09022.
 
 ### Notes:
 **This app is currently for learning purposes only! Any commercial use is strictly prohibited. If you wish to use the app to generate data for paper publication, please cite our work. Appreciated!**
