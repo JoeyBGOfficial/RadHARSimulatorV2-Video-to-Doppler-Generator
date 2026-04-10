@@ -57,6 +57,7 @@ You can also access the aoo manual by tapping the "Instruction" button.
 
 For radar high-precision recognition tasks based on Doppler-Time Maps (DTM), this paper proposes a novel neural network architecture (Shown in Fig. 3). The key principle of this design lies in utilizing a serial, parallel multi-level deep concatenation fusion network architecture (DopSPN) to enable the perception of information across various scales and levels of complexity. It is equally applicable for recognition using DTM directly or using ridge feature maps extracted from DTM, achieving good validation accuracy.
 
+![SPNet](https://github.com/user-attachments/assets/57638c52-aef2-4b69-85ed-0361670b0c4e)
 Fig. 3. Structure of the proposed DopSPN model.
 
 ### B. Codes Explanation (Folder: SPN_Model_Matlab, SPN_Model_Python)
